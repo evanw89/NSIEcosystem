@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+}
+
+svg {
+	max-width: 750px;
+}
+
+svg text {
+	text-transform: uppercase;
+}
+
+#bg_0_ {
+	opacity:0.5;
+}
+
+.st40 > g > .st41 {
+	opacity:0.62;
+}
+
+svg > g {
+	transform-origin: 10% 10%;
+}
+
+svg > g#Policy_makers {
+	transform-origin: 50% 50%!important;
+}
